@@ -1,0 +1,20 @@
+
+:root {
+    --main_bg: #34243C;
+    --font_Color: #fff;
+    --btn_Color: #FF3789;
+}
+/**************Common**********/
+.mainDiv {
+    background-color: var(--main_bg);
+    width: 100%;
+    height: 100% !important;
+    display: flex;
+    flex: 1;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+    flex-direction: column;
+    padding-top: ;
+}
